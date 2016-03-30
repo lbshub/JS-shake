@@ -3,12 +3,12 @@
 
 ===============================
 
-// 实例化
-var shake = new Shake('shake-id');
-// 开始震动
-shake.start();
-// 停止震动
-shake.stop();
+1. // 实例化
+2. var shake = new Shake('shake-id');
+3. // 开始震动
+4. shake.start();
+5. // 停止震动
+6. shake.stop();
 
 ===============================
 
